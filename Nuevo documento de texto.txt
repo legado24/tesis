@@ -5,9 +5,13 @@ hhhh
 
 fjfjfjfjfjf
 
+<<<<<<< HEAD
 hola soy adrian
 modulo de empleados
 
 modulo de trabajodres
 Hola soy francisco
 ...
+=======
+hola soy willian  2
+>>>>>>> origin/willian
